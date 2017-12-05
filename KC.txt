@@ -1,0 +1,44 @@
+harstp
+
+
+https://din17001051.corp.capgemini.com:80/comkart/admin/login.aspx 
+
+PROJECT
+NB-DW1 CDW AM 2017 [100383398]
+
+SUB PROJECT
+[1000652] <NBT>GDC NBT over 40hrs
+[1000DW1-CPS SL] <DW1>780 – DW1 - FDW – CPS SL – 155 FDW-Basic Maintenance
+[1000DW1-FCNO_RFM] <DW1>780-SE: DSxx_CDW_FC -CDW NO_155 CDW –Basic Maintenance
+[1000DW1-DE SL] <DW1>780 – DW1 - FDW – DE SL – 155 FDW-Basic Maintenance
+[1000DW1-CPS_WB_RFM] <DW1>780-DW1 -CDW_CPS WB_155 CDW –Basic Maintenance
+[1000DW1-MFI3] <DW1>780 – DWMFI - CDW – MFI3 – 155 CDW-Basic Maintenance
+
+
+TASK
+GDC NBT over 40 hours [652]
+WTC - CM Support - Normal Time [15140]
+WTC - CM Support - Normal Time [15140]
+WTC - CM Support - Normal Time [15140]
+WTC - CM Support - Normal Time [15140]
+WTC - CM Support - Normal Time [15140]
+
+100333441 - Leave code
+
+100383398  NB-DW1 CDW AM 2017 
+
+
+NB-DW1 CDW AM 2017
+780 – DW1 - Shared Services - OTC  
+OTC - Change Request [12600]   
+General Shift-HC 
+
+OncallDutyWkDayExtra [10045]  
+
+
+100383398
+NB-DW1 CDW AM 2017	
+780 – DW1 - Shared Services - OTC	
+WTC - Oncall Duty - Oncall Duty Contracted [10033]	
+On Call	Posted	2.00	2.00	2.00	2.00	2.00	2.00	2.00
+
